@@ -12,9 +12,8 @@
     align-items: center;
     justify-content: center;
 }
-.main h1{
+.main span{
     font-size: 10vw;
-    color: #fff;
 }
 .g1{
     color: blue;
